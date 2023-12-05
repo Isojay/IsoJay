@@ -1,12 +1,12 @@
+<div id="header" align="center">
 ### Hi there 👋
-<div id="header" align="center">
+
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="header" align="center">
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: No Fun
+
+- 🔭 I’m currently working on ...<br>
+- 🌱 I’m currently learning ...<br>
+- 👯 I’m looking to collaborate on ...<br>
+- 🤔 I’m looking for help with ...<br>
+- 💬 Ask me about ...<br>
+- ⚡ Fun fact: No Fun<br>
 </div>
