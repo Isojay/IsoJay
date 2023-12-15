@@ -6,9 +6,8 @@
 
   <hr>
  💬 I am Bijay Shrestha<br>
- 🔭 I’m currently working on ...<br>
- 🌱 I’m currently learning ...<br>
- 👯 I’m looking to collaborate on ...<br>
- 🤔 I’m looking for help with ...<br>
- ⚡ Fun fact: No Fun<br>
+<!--  🔭 I’m currently working on ...<br> -->
+ 🌱 I’m currently learning Java(Spring Boot)<br>
+<!--  🤔 I’m looking for help with ...<br> -->
+ ⚡ Fun fact: Code is Life. Life is .....<br>
 </div>
